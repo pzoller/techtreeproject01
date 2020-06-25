@@ -1,0 +1,1 @@
+This is the first project for my Front End Web Development course.  I heard it was a good idea to add a readme file to my github project.
