@@ -230,5 +230,6 @@ li.job {
 }
 
 img.book {
-  
+  max-width: 100%;
+  height: auto;
 }
